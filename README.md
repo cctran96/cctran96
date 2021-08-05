@@ -16,3 +16,7 @@ A web application for finding recipes with written and video instructions based 
 
 <img src="https://emoji.gg/assets/emoji/pokeball.png" width="16px" height="16px" alt="pokeball"> Pokébattler | [Demo](http://www.youtube.com/) | [Repo](https://github.com/cctran96/Pokebattler) </br>
 A battle simulator where users can create their own pokemon team and bring it into battle
+
+## Connect With Me ##
+
+## Skills ##
