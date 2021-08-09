@@ -8,7 +8,7 @@ Highly motivated to improve through continual learning. Vision for design and in
 
 ## Projects 💻 ##
 
-🎮 Rovereign | | [Frontend](https://github.com/cctran96/rovereign-frontend) | [Backend](https://github.com/cctran96/rovereign-backend) </br>
+🎮 Rovereign | [Demo](https://www.youtube.com/watch?v=n_9qLVUJHRs) | [Frontend](https://github.com/cctran96/rovereign-frontend) | [Backend](https://github.com/cctran96/rovereign-backend) </br>
 An RPG game where players can explore different maps and battle different monsters
 
 🍕 What's in the Fridge? | [Demo](https://www.youtube.com/watch?v=1KoNAjmQc9o) | [Frontend](https://github.com/moshriguez/whats-in-the-fridge-frontend) | [Backend](https://github.com/moshriguez/whats-in-the-fridge-backend) </br>
