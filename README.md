@@ -19,6 +19,7 @@ A battle simulator where users can create their own pokemon team and bring it in
 
 ## Connect With Me 🗣 ##
 
+[Portfolio](https://www.chauctran.com/)
 <a href="https://www.linkedin.com/in/chauctran/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> </br>
 <a href="https://cctran96.medium.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="medium"/></a> </br>
 <a href="mailto:cctran96@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> </br>
