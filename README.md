@@ -6,7 +6,9 @@ Experienced in Javascript/React, Redux, and Ruby/Rails. Possess strong problem s
 
 Highly motivated to improve through continual learning. Vision for design and innovation.
 
-[![Chau's GitHub stats](https://github-readme-stats.vercel.app/api?username=cctran96&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chau's GitHub stats](https://github-readme-stats.vercel.app/api?username=cctran96&theme=radical&show_icons=true)](https://github.com/cctran96/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cctran96&layout=compact&theme=radical)](https://github.com/cctran96/github-readme-stats)
 
 ## Projects 💻 ##
 
