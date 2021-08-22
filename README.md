@@ -21,7 +21,7 @@ A web application for finding recipes with written and video instructions based 
 <img src="https://emoji.gg/assets/emoji/pokeball.png" width="16px" height="16px" alt="pokeball"> Pokébattler | [Demo](https://www.youtube.com/watch?v=3miVKVS0pEw) | [Repo](https://github.com/cctran96/Pokebattler) </br>
 A battle simulator where users can create their own pokemon team and bring it into battle
 
-## Connect With Me 🗣 ##
+## Connect With Me 💁🏻‍♂️ ##
 <a href="https://www.chauctran.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a> </br>
 <a href="https://www.linkedin.com/in/chauctran/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> </br>
 <a href="https://cctran96.medium.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="medium"/></a> </br>
