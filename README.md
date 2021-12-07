@@ -1,4 +1,4 @@
-# I'm Chau 👋 #
+# I'm Chau <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> #
 
 Developer with background in pharmacy who has a drive for creating comprehensive applications that touch the lives of others in multiple facets.
 
