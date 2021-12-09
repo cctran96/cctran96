@@ -22,10 +22,10 @@ A web application for finding recipes with written and video instructions based 
 A battle simulator where users can create their own pokemon team and bring it into battle
 
 ## Connect With Me 💁🏻‍♂️ ##
-<a href="https://www.chauctran.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a> </br>
-<a href="https://www.linkedin.com/in/chauctran/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a> </br>
-<a href="https://cctran96.medium.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="medium"/></a> </br>
-<a href="mailto:cctran96@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a> </br>
+<a href="https://www.chauctran.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="portfolio"/></a>
+<a href="https://www.linkedin.com/in/chauctran/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://cctran96.medium.com/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="medium"/></a>
+<a href="mailto:cctran96@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 
 ## Skills 🧠 ##
 
